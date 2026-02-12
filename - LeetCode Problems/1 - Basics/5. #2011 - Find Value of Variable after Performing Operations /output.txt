@@ -1,0 +1,8 @@
+
+**Using contains Method**
+Final Value of X = 1
+______________________________
+
+**Using equals Method**
+Final Value of X = -3
+______________________________
